@@ -1,5 +1,5 @@
-# IntroCircuit
-Basic Quantum Simulation
+
+# Basic Quantum Circuit
 
 Entanglement between q0 sub 0 and q0 sub 1. 
 
